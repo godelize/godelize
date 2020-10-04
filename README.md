@@ -34,6 +34,9 @@ You will be prompted to enter some text:
 Enter some text or equation or whatever (keep in mind that the longer it is, the longer the processe will take):
 ![godelTerm2.png](https://github.com/godelize/godelize/blob/main/godelTerm2.png)
 
+After some processing, you will presented with:
+![godelTerm3.png](https://github.com/godelize/godelize/blob/main/godelTerm3.png)
+which will show what you entered, the Godel Number for that text...
 
 <!--
 <details>
