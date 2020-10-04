@@ -31,7 +31,7 @@ At command prompt type: python godelize.py
 You will be prompted to enter some text:
 ![godelTerm1.png](https://github.com/godelize/godelize/blob/main/godelTerm1.png)
 
-Enter some text or equation or whatever (keep in mind that the longer it is, the longer the processe will take):
+Enter some text or equation or whatever (keep in mind that the longer it is, the longer the process will take):
 ![godelTerm2.png](https://github.com/godelize/godelize/blob/main/godelTerm2.png)
 
 After some processing, you will presented with:
