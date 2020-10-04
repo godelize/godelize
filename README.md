@@ -41,7 +41,7 @@ which will show what you entered, the Godel Number for that text...
 At the end, you will be shown the prime factorization of the Godel Number.
 Then a list of unicode symbols which is the count of each prime.
 Then the original text you entered:
-
+![godelTerm4.png](https://github.com/godelize/godelize/blob/main/godelTerm4.png)
 
 <!--
 <details>
