@@ -24,6 +24,15 @@ I decided to see if I could write a python script to perform this task. I'm not 
 
 If anyone can think of a good way to use this, please help yourself to the source code.
 
+
+## Usage
+
+At command prompt type: python godelize.py
+You will be prompted to enter some text:
+
+
+
+
 <!--
 <details>
 <summary>summary</summary>
