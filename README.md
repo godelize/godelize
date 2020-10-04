@@ -38,7 +38,7 @@ After some processing, you will presented with:
 ![godelTerm3.png](https://github.com/godelize/godelize/blob/main/godelTerm3.png)
 which will show what you entered, the Godel Number for that text...
 
-At the end, you will be shown the prime factorization of the Godel Number.
+...at the end, you will be shown the prime factorization of the Godel Number.
 Then a list of unicode symbols which is the count of each prime.
 Then the original text you entered:
 ![godelTerm4.png](https://github.com/godelize/godelize/blob/main/godelTerm4.png)
