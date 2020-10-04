@@ -32,7 +32,6 @@ You will be prompted to enter some text:
 
 
 
-
 <!--
 <details>
 <summary>summary</summary>
