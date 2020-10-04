@@ -29,10 +29,10 @@ If anyone can think of a good way to use this, please help yourself to the sourc
 
 At command prompt type: python godelize.py
 You will be prompted to enter some text:
-![godelTerm2.png](https://github.com/godelize/godelize/blob/main/godelTerm1.png)
+![godelTerm1.png](https://github.com/godelize/godelize/blob/main/godelTerm1.png)
 
 Enter some text or equation or whatever (keep in mind that the longer it is, the longer the processe will take):
-
+![godelTerm2.png](https://github.com/godelize/godelize/blob/main/godelTerm2.png)
 
 
 <!--
